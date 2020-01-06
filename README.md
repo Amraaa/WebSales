@@ -1,2 +1,2 @@
 # WebSales
-Spring MVC application with MxSQL database
+Spring MVC application with MySQL database
